@@ -9,3 +9,5 @@ tags:
   - sustainability regenerative agriculture landscape ecology
 ---
 Silver Botanic Nursery was founded with the vision of growing plants for the landscaping industry in the Hudson Valley that reflect the leading agricultural principles of our time: namely, leaving behind an unsustainable system of extraction and building a system which is additive and regenerative.
+
+![](/img/img_0783.jpg)
